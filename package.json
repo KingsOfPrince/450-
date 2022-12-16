@@ -1,21 +1,21 @@
 {
-  "name": "294-project",
+  "name": "450",
   "version": "1.0.0",
-  "description": "application test",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KingsOfPrince/294.git"
+    "url": "git+https://github.com/mouayad03/294.git"
   },
-  "author": "Mauel Sollberger",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KingsOfPrince/294/issues"
+    "url": "https://github.com/mouayad03/294/issues"
   },
-  "homepage": "https://github.com/KingsOfPrince/294#readme",
+  "homepage": "https://github.com/mouayad03/294#readme",
   "devDependencies": {
     "cypress": "^12.1.0"
   }

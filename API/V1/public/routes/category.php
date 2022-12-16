@@ -36,7 +36,7 @@
 	 * )
 	 */
 	$app->post("/Category", function (Request $request, Response $response, $args) {
-		//require "util/authentication.php";
+		require "util/authentication.php";
 		require "category/create.php";
 		return $response;
 	});

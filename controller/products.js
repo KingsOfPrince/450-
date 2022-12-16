@@ -62,7 +62,7 @@ function onProductsLoadingError(request) {
 		return;
 	}
 
-	alert("Erör: " + request.statusText);
+	alert("Error: " + request.statusText);
 }
 
 /**
